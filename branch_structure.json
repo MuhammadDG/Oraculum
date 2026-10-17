@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-639-be-19-preserve-soft-delete-behavior-across",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-639-be-19-preserve-soft-delete-behavior-across": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-639-be-19-preserve-soft-delete-behavior-across",
+    "origin"
+  ]
+}
